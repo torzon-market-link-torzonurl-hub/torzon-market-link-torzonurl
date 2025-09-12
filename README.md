@@ -4,11 +4,11 @@ TorZon Market stands as a prominent destination in the darknet ecosystem, connec
 
 ## TorZon Market Link & Torzonurl: Secure Darknet Access
 
-http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion
+http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion
 
-[<img src="/config/idle.webp" width="200">](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion)
+[<img src="/config/idle.webp" width="200">](http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion)
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/config/simple.webp" alt="Market Link & Torzonurl" style="max-width: 100%;"></a>
+<a href="http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion"><img src="/config/simple.webp" alt="Market Link & Torzonurl" style="max-width: 100%;"></a>
 
 This platform serves an educational purpose, providing insights into the darkweb. We do not profit from affiliate links nor endorse any illegal activities.
 
@@ -38,8 +38,8 @@ While **TorZon Market** provides many choices, prioritizing safety is vital:
 
 Navigating the darknet presents risks. Prioritize security, stay informed about potential threats, and use the latest **TorZon links** and **Torzonurl**. Adhering to anonymity best practices and practicing caution will help you explore **TorZon** safely and effectively.
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/config/home.webp" alt="TorZon - Market Login" style="max-width: 100%;"></a>
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/config/window.webp" alt="TorZon - Market Register" style="max-width: 100%;"></a>
+<a href="http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion"><img src="/config/home.webp" alt="TorZon - Market Login" style="max-width: 100%;"></a>
+<a href="http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion"><img src="/config/window.webp" alt="TorZon - Market Register" style="max-width: 100%;"></a>
 
 ---
 
@@ -53,4 +53,6 @@ This guide is for educational purposes only. It aims to increase understanding o
 
 
 
-Update:  23 August Updated API documentation references
+
+
+Update:  12.09.2025 Fixed broken url, now accessible and working
