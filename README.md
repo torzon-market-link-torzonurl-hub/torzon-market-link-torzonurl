@@ -55,4 +55,6 @@ This guide is for educational purposes only. It aims to increase understanding o
 
 
 
-Update:  12.09.2025 Fixed broken url, now accessible and working
+
+
+Update:  14 September 2025 Fixed broken url, now active
